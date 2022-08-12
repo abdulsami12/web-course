@@ -1,0 +1,135 @@
+
+body {
+    font-family: sans-serif;
+
+
+}
+
+#inputGroupSelect01 {
+    height: 45px;
+
+}
+
+#search1 {
+    height: 45px;
+}
+
+#search {
+    height: 50px;
+    width: 55px;
+    position: relative;
+    left: -3px;
+    top: 0px;
+
+    color: aliceblue;
+}
+
+
+
+.location {
+    color: #61797d;
+    font-size: 12px;
+
+
+
+}
+
+#car {
+    color: rgb(141, 138, 138);
+    width: 25px;
+    height: 25px;
+    border-radius: 100px;
+    padding-left: 4px;
+    padding-top: 2px;
+    border: 2px solid gainsboro;
+
+    background: linear-gradient(lightgray, white);
+
+}
+
+
+
+#bulding {
+    color: rgb(141, 138, 138);
+    width: 25px;
+    height: 25px;
+    border-radius: 100px;
+    padding-left: 5px;
+    padding-top: 2px;
+    border: 2px solid gainsboro;
+    background: linear-gradient(lightgray, white);
+}
+
+
+
+
+
+#tp {
+    height: 30px !important;
+}
+
+.motor {
+    color: black;
+font-size: small;
+
+
+}
+
+#sec {
+    font-size: 13px;
+
+}
+
+#extra {
+
+    height: 125px;
+}
+
+.table-1 {
+    font-size: small;
+    background-color: #ebeeef;
+}
+
+.table {
+    margin: 0px;
+}
+
+#final {
+    background-color: #002f34;
+    height: 50px;
+    font-size: smaller;
+}
+
+
+.login:hover{
+   
+    border-color: #ebeeef !important;
+    
+}
+
+
+#categ:hover{
+    border: none !important;
+}
+
+#categ:focus{
+    border: none !important;
+}
+
+
+.land1:hover{
+    color: #00a49f !important;
+}
+
+.card-1:hover{
+    cursor: pointer;
+}
+.more-1:hover{
+
+    border-width: 4px !important;
+}
+
+.follow:hover{
+    color: #002f34;
+cursor: pointer;
+}
